@@ -1,0 +1,8 @@
+Started by user [8mha:////4Buk0r6qYQykuSB87JMnjoa5b/L4sGhC1tn5XResNjIcAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy2EgYe/dLi1CL9bKBBeYkAySNWIcEAAAA=[0mkavana
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/c-project
+[c-project] $ /bin/sh -xe /tmp/jenkins13645166485251258539.sh
++ /var/lib/big2.sh 6 7
+/tmp/jenkins13645166485251258539.sh: line 2: /var/lib/big2.sh: No such file or directory
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE
